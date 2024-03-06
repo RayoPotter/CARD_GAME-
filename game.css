@@ -1,0 +1,49 @@
+
+
+
+ table{
+    background-color: rgb(152, 192, 57);
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 200px;
+    border-radius: 20px;
+} 
+
+ .spades tr th{
+    margin-top: -50px;
+}
+.spade{
+    font-size: 150px;
+    text-align: center;
+}
+#dia{
+    padding-left: 35px;
+    padding-top: 40px;
+}
+.spade1{
+    font-size: 50px;
+    float: left;
+    margin-left: -135px;
+}
+.spade2{
+    font-size:50px ;
+    float: left;
+    margin-left: -5px;
+    margin-right: -40px;
+}
+.spade3{
+    font-size: 50px;
+    margin-top: 20px;
+}
+.spade4{
+    font-size: 50px;
+    margin-right: -20px;
+}
+.spades{
+    float: left;
+    
+} 
+#flower{
+    margin-top: 30px;
+}
